@@ -1,0 +1,11 @@
+.login{
+	padding:30px;
+	border:1px solid transparent;
+	border-radius:5px;
+	box-shadow:1px 1px 5px black;
+}
+
+#txtwelcome{
+	color: #e1e1e1;
+    text-shadow: 2px 2px 2px #90b73d;
+}
